@@ -36,9 +36,10 @@ Thomas Muir:
 - 🕺 My personal interests and hobbies:
   - 📚 literature
   - 🐲 fantasy
+  - 📝 writing
+  - 🎸 music of all kinds
   - 📽️ film ([MST3K](https://mst3k.com/) devotee)
   - 🎮 gaming (especially [Dota 2](https://www.dota2.com/home))
-  - 📝 writing
   - 🗣️ linguistics
   - 🏰 but above all else history!
 - ⏳ My favorite history topics (right now):
