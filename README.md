@@ -32,12 +32,12 @@ Thomas Muir:
   - 🎡 Apache Airflow services for job-hunting
   - 📓 *Citadel*, a Next.js + MongoDB web application for helping writers build personal wikis for their projects
   - 🔡 *Lexodus*, an application for helping lovers of language build their own [conlangs](https://en.wikipedia.org/wiki/Constructed_language)
-  - 🛡️ a fantasy novel of my own, as well as other miscellaneous writing projects
+  - ⚔️ a fantasy novel of my own, as well as other miscellaneous writing projects
 - 🕺 My personal interests and hobbies:
   - 📚 literature
   - 🐲 fantasy
   - 📽️ film ([MST3K](https://mst3k.com/) devotee)
-  - ⚔️ gaming (especially [Dota 2](https://www.dota2.com/home))
+  - 🎮 gaming (especially [Dota 2](https://www.dota2.com/home))
   - 📝 writing
   - 🗣️ linguistics
   - 🏰 but above all else history!
