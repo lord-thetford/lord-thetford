@@ -1,5 +1,5 @@
 # Matthew Godwin, "Lord Thetford"
-Hi! 👋 I'm **Matthew Godwin**, a software engineer with well over 6 years of professional experience designing, developing, and implementing a wide variety of custom software solutions for everything from supporting critical business applications to building data infrastructure for both business and operational intelligence.
+Hi! 👋 I'm **Matthew Godwin**, a senior software engineer with well over 6 years of professional experience designing, developing, and implementing a wide variety of custom software solutions for everything from supporting critical business applications to building data infrastructure for both business and operational intelligence.
 
 I'm primarily a backend web developer and data engineer, although I have plenty of experience with frontend web development in React and operations technologies such as Docker and Kubernetes. I also have certifications in both Microsoft Azure and Snowflake.
 
@@ -17,6 +17,7 @@ Thomas Muir:
 ## About me
 - 👋 My pronouns: he/him/his
 - 🔍 Looking for new professional opportunities!
+- 👨‍🎓 Graduated from Texas A&M University, class of 2017
 - 👨‍💻 My top professional skills:
   - 🐍 Python 3.12
   - 🟪 .NET 8 with C#
@@ -24,7 +25,7 @@ Thomas Muir:
   - 🌱 SQL and NoSQL (MongoDB enthusiast!)
   - 🛠️ data engineering
   - 🐋 DevOps and CI/CD
-- 👨‍🎓 I’m currently learning:
+- 🔬 I’m currently learning:
   - 🦕 TypeScript and Deno
   - 🧱 Databricks Data Intelligence Platform, and the Lakehouse architecture
   - ☁️ other unfamiliar cloud platforms (AWS, GCP)
