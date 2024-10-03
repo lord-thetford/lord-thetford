@@ -43,7 +43,7 @@ Thomas Muir:
   - 🎮 gaming (especially [Dota 2](https://www.dota2.com/home))
   - 🗣️ linguistics
   - 🏰 but above all else history!
-- ⏳ My favorite history topics (right now):
+- ⏳ My favorite history topics:
   - 🇫🇷 the French Revolution and the Napoleonic Wars
   - 📜 the ["English Revolution"](https://en.wikipedia.org/wiki/English_Revolution) of the Stuart period
   - ⚜️ the Hundred Years' War
