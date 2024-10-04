@@ -49,8 +49,8 @@ My profile picture is a bust of [Thomas Muir](https://en.wikipedia.org/wiki/Thom
   - 🗣️ linguistics
   - 🏰 but above all else history!
 - ⏳ My favorite history topics:
-  - 🇫🇷 the French Revolution and the age of Napoleon, 1789 to 1815
-  - 📜 the ["English Revolution"](https://en.wikipedia.org/wiki/English_Revolution) of the Stuart period, 1603 to 1714
+  - 🇫🇷 the French Revolution and the age of Napoleon
+  - 📜 the ["English Revolution"](https://en.wikipedia.org/wiki/English_Revolution) of the Stuart period
   - ⚜️🦁 the Hundred Years' War, 1337 to 1453
   - ⚓ the ["Second"](https://en.wikipedia.org/wiki/Second_Hundred_Years'_War) Hundred Years' War, 1689 to 1815
   - 🗺️ the ["New Imperialism"](https://en.wikipedia.org/wiki/New_Imperialism) of the 19th century and decolonization
