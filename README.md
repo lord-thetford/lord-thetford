@@ -54,6 +54,6 @@ Thomas Muir:
   - 📜 the ["English Revolution"](https://en.wikipedia.org/wiki/English_Revolution) of the Stuart period
   - ⚜️🦁 the Hundred Years' War
   - ⚓ the ["Second"](https://en.wikipedia.org/wiki/Second_Hundred_Years'_War) Hundred Years' War
-  - 🗺️ the ["New Imperialism"](https://en.wikipedia.org/wiki/New_Imperialism) of the 19th century through decolonization
+  - 🗺️ the ["New Imperialism"](https://en.wikipedia.org/wiki/New_Imperialism) of the 19th century and decolonization
   - 🪖 World War I
 - 📬 Let's chat!
