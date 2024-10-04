@@ -13,7 +13,7 @@ My profile picture is a bust of [Thomas Muir](https://en.wikipedia.org/wiki/Thom
 
 > I have devoted myself to the cause of The People. It is a good cause – it shall ultimately prevail – it shall finally triumph.
 
-Thomas Muir, 30 August 1793
+(Thomas Muir, 30 August 1793)
 
 ## About me
 - 👋 My pronouns: he/him/his
