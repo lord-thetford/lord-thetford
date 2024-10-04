@@ -11,8 +11,9 @@ Currently looking for new professional opportunities, and excited to pick up new
 ## Who's that in your profile picture?
 My profile picture is a bust of [Thomas Muir](https://en.wikipedia.org/wiki/Thomas_Muir_of_Huntershill), another historical figure and contemporary of Paine who has long been an interest of mine. He lived a very eventful and interesting life, and I would very much like to do the same! (Perhaps minus the naval battles...)
 
-Thomas Muir:
 > I have devoted myself to the cause of The People. It is a good cause – it shall ultimately prevail – it shall finally triumph.
+
+Thomas Muir, 30 August 1793
 
 ## About me
 - 👋 My pronouns: he/him/his
