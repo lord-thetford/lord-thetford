@@ -32,7 +32,7 @@ My profile picture is a bust of [Thomas Muir](https://en.wikipedia.org/wiki/Thom
   - ☁️ unfamiliar cloud platforms (AWS, GCP)
 - 💡 I'd like opportunities to learn or use:
   - ⚙️ Rust or 🐹 Go
-  - 🤠 Django
+  - 🎸 Django
   - 🕸️ GraphQL
   - 🧱 Databricks
 - 📋 I'm currently working on:
@@ -43,7 +43,7 @@ My profile picture is a bust of [Thomas Muir](https://en.wikipedia.org/wiki/Thom
 - 🕺 My personal interests and hobbies:
   - 📚 literature and 🐲 fantasy
   - 📝 writing
-  - 🎸 music of all kinds
+  - 🎺 music of all kinds
   - 📽️ film ([MST3K](https://mst3k.com/) devotee)
   - 🎮 gaming (especially [Dota 2](https://www.dota2.com/home))
   - 🗣️ linguistics
@@ -54,5 +54,5 @@ My profile picture is a bust of [Thomas Muir](https://en.wikipedia.org/wiki/Thom
   - ⚜️🦁 the Hundred Years' War
   - ⚓ the ["Second"](https://en.wikipedia.org/wiki/Second_Hundred_Years'_War) Hundred Years' War
   - 🗺️ the ["New Imperialism"](https://en.wikipedia.org/wiki/New_Imperialism) of the 19th century and decolonization
-  - 🪖 World War I
+  - 🪖 World War I and ✊ the Revolutions of 1917
 - 📬 Let's chat! Email me at: [matthew.godwin@protonmail.com](mailto:matthew.godwin@protonmail.com)
