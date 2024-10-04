@@ -21,7 +21,7 @@ Thomas Muir:
 - 👨‍💻 My top professional skills:
   - 🐍 Python 3.12
   - 🟪 .NET 8 with C#
-  - ☕ JavaScript and 📗 Node.js
+  - ☕ JavaScript and 🟢 Node.js
   - ❔ SQL and 🌱 NoSQL (MongoDB enthusiast!)
   - 🛠️ data engineering
   - 🐋 DevOps and CI/CD
