@@ -55,4 +55,4 @@ My profile picture is a bust of [Thomas Muir](https://en.wikipedia.org/wiki/Thom
   - ⚓ the ["Second"](https://en.wikipedia.org/wiki/Second_Hundred_Years'_War) Hundred Years' War
   - 🗺️ the ["New Imperialism"](https://en.wikipedia.org/wiki/New_Imperialism) of the 19th century and decolonization
   - 🪖 World War I
-- 📬 Let's chat!
+- 📬 Let's chat! Email me at: [matthew.godwin@protonmail.com](mailto:matthew.godwin@protonmail.com)
