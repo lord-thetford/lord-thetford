@@ -16,19 +16,25 @@ Thomas Muir:
 
 ## About me
 - 👋 My pronouns: he/him/his
-- 🔍 Looking for new professional opportunities!
+- 🕵️‍♂️ Looking for new professional opportunities!
 - 👨‍🎓 Graduated from Texas A&M University, class of 2017
 - 👨‍💻 My top professional skills:
   - 🐍 Python 3.12
   - 🟪 .NET 8 with C#
-  - ☕ JavaScript and Node.js
-  - 🌱 SQL and NoSQL (MongoDB enthusiast!)
+  - ☕ JavaScript and 📗 Node.js
+  - ❔ SQL and 🌱 NoSQL (MongoDB enthusiast!)
   - 🛠️ data engineering
   - 🐋 DevOps and CI/CD
 - 🔬 I’m currently learning:
-  - 🦕 TypeScript and Deno
-  - 🧱 Databricks Data Intelligence Platform, and the Lakehouse architecture
-  - ☁️ other unfamiliar cloud platforms (AWS, GCP)
+  - ⌨️ TypeScript and 🦕 Deno
+  - 🔶 dbt
+  - ☁️ unfamiliar cloud platforms (AWS, GCP)
+- 💡 I'd like opportunities to learn or use:
+  - ⚙️ Rust, 🐹 Go, 🧬 Scala, 🔷 F#
+  - 🤠 Django
+  - 🕸️ GraphQL
+  - 🔍 Elasticsearch
+  - 🧱 Databricks
 - 📋 I'm currently working on:
   - 🎡 Apache Airflow services for job-hunting
   - 📓 *Citadel*, a Next.js + MongoDB web application for helping writers build personal wikis for their projects
@@ -44,9 +50,9 @@ Thomas Muir:
   - 🗣️ linguistics
   - 🏰 but above all else history!
 - ⏳ My favorite history topics:
-  - 🇫🇷 the French Revolution and the Napoleonic Wars
+  - 🇫🇷 the French Revolution and the age of Napoleon
   - 📜 the ["English Revolution"](https://en.wikipedia.org/wiki/English_Revolution) of the Stuart period
-  - ⚜️ the Hundred Years' War
+  - ⚜️🦁 the Hundred Years' War
   - ⚓ the ["Second"](https://en.wikipedia.org/wiki/Second_Hundred_Years'_War) Hundred Years' War
   - 🗺️ the ["New Imperialism"](https://en.wikipedia.org/wiki/New_Imperialism) of the 19th century through decolonization
   - 🪖 World War I
