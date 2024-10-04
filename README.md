@@ -40,8 +40,7 @@ Thomas Muir:
   - 🔡 *Lexodus*, an application for helping lovers of language build their own [conlangs](https://en.wikipedia.org/wiki/Constructed_language)
   - ⚔️ a fantasy novel of my own, as well as other miscellaneous writing projects
 - 🕺 My personal interests and hobbies:
-  - 📚 literature
-  - 🐲 fantasy
+  - 📚 literature and 🐲 fantasy
   - 📝 writing
   - 🎸 music of all kinds
   - 📽️ film ([MST3K](https://mst3k.com/) devotee)
