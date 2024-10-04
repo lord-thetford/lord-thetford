@@ -16,7 +16,7 @@ Thomas Muir:
 
 ## About me
 - 👋 My pronouns: he/him/his
-- 🕵️‍♂️ Looking for new professional opportunities!
+- 🔍 Looking for new professional opportunities!
 - 👨‍🎓 Graduated from Texas A&M University, class of 2017
 - 👨‍💻 My top professional skills:
   - 🐍 Python 3.12
@@ -30,10 +30,9 @@ Thomas Muir:
   - 🔶 dbt
   - ☁️ unfamiliar cloud platforms (AWS, GCP)
 - 💡 I'd like opportunities to learn or use:
-  - ⚙️ Rust, 🐹 Go, 🧬 Scala, 🔷 F#
+  - ⚙️ Rust or 🐹 Go
   - 🤠 Django
   - 🕸️ GraphQL
-  - 🔍 Elasticsearch
   - 🧱 Databricks
 - 📋 I'm currently working on:
   - 🎡 Apache Airflow services for job-hunting
